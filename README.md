@@ -1,10 +1,11 @@
 # code_-kata
 ##代码卡塔练习：
 + php javascript
-+ python golang
-+ exilir c++
++ python c++
 + c# c
-+ shell ava
++ shell java
+
++ exilir golang
 + scala R
 + perl ruby
 + lua clojure
