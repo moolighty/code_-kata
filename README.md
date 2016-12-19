@@ -4,7 +4,6 @@
 + python c++
 + c# c
 + shell java
-
 + exilir golang
 + scala R
 + perl ruby
